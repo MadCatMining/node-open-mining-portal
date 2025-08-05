@@ -40,13 +40,17 @@
         "express": "*",
         "body-parser": "*",
         "compression": "*",
+        "cors": "*",
+        "socket.io": "^4.7.0",
         "dot": "*",
         "colors": "*",
         "node-watch": "0.5.9",
         "request": "2.69.0",
         "nonce": "*",
         "bignum": "0.13.1",
-        "extend": "*"
+        "extend": "*",
+        "nodemailer": "*",
+        "axios": "*"
     },
     "engines": {
         "node": ">=0.10"
